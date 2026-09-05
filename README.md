@@ -464,7 +464,7 @@ After completing this project, the following concepts are understood:
 ## GitHub Repository Name
 
 ```text
-harman62
+2442962_BirthdayGuessCalculator
 ```
 
 ## Conclusion
