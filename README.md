@@ -358,22 +358,16 @@ echo $birthday;
 
 ```text
 Birthday-Guess-Calculator/
-├── index.php
-├── style.css
+├── birthdaycal.php
 ├── README.md
-├── screenshot-1.png
-├── screenshot-2.png
-└── screenshot-3.png
-```
+├── screenshot1.png
+├── screenshot2.png
 
-### index.php
+
+### birthdaycal.php
 
 Contains the HTML form and PHP logic used to calculate the
-birthday date.
-
-### style.css
-
-Contains the styling and responsive design of the application.
+birthday date.Contains the styling and responsive design of the application.
 
 ### README.md
 
@@ -409,21 +403,7 @@ http://localhost/Birthday-Guess-Calculator/
 8. Answer all five Yes/No questions.
 9. Click the `Guess Birthday` button.
 10. The predicted birth date will be displayed.
-
-### Using PHP Built-in Server
-
-Open the project folder in Command Prompt or Terminal and run:
-
-```text
-php -S localhost:8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
+11. 
 ## Output Screenshots
 
 Add screenshots of:
@@ -432,21 +412,10 @@ Add screenshots of:
 2. Birthday Guess Calculator page with Yes/No answers selected.
 3. Final result showing the predicted birth date.
 
-## Expected Output
+![Project Screenshot](screenshot1.png)
 
-For example, if the selected answers correspond to:
 
-```text
-1 + 0 + 4 + 8 + 0
-```
-
-The application displays:
-
-```text
-Your Birthday Date Is:
-
-13
-```
+![Project Screenshot](screenshot2.png)
 
 ## Advantages
 
